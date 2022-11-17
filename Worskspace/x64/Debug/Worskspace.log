@@ -1,0 +1,4 @@
+﻿  wk9_2_euclid.c
+C:\Users\ksj\source\repos\Worskspace\Worskspace\wk9_2_euclid.c(13): warning C4172: 지역 변수 또는 임시: result의 주소를 반환하고 있습니다.
+C:\Users\ksj\source\repos\Worskspace\Worskspace\wk9_2_euclid.c(20): warning C4172: 지역 변수 또는 임시: result의 주소를 반환하고 있습니다.
+  Worskspace.vcxproj -> C:\Users\ksj\source\repos\Worskspace\x64\Debug\Worskspace.exe
