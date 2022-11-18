@@ -1,5 +1,5 @@
 #pragma warning(disable: 4996)
-//ú°Öõû¿Îù  û¿Ññ!!
+
 
 #include <stdio.h>
 #include<stdlib.h>
