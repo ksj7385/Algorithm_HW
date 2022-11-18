@@ -1,4 +1,6 @@
-﻿  wk9_2_euclid.c
-C:\Users\ksj\source\repos\Worskspace\Worskspace\wk9_2_euclid.c(13): warning C4172: 지역 변수 또는 임시: result의 주소를 반환하고 있습니다.
-C:\Users\ksj\source\repos\Worskspace\Worskspace\wk9_2_euclid.c(20): warning C4172: 지역 변수 또는 임시: result의 주소를 반환하고 있습니다.
+﻿  wk_11_2_marketingStrategy.c
+C:\Users\ksj\source\repos\Worskspace\Worskspace\wk_11_2_marketingStrategy.c(39,74): warning C4113: 'bool (__cdecl *)(Point,Point)'은(는) '_CoreCrtNonSecureSearchSortCompareFunction'과(와) 매개 변수 목록이 다릅니다.
+C:\Users\ksj\source\repos\Worskspace\Worskspace\wk_11_2_marketingStrategy.c(39,74): warning C4133: '함수': 'bool (__cdecl *)(Point,Point)'과(와) '_CoreCrtNonSecureSearchSortCompareFunction' 사이의 형식이 호환되지 않습니다.
+C:\Users\ksj\source\repos\Worskspace\Worskspace\wk_11_2_marketingStrategy.c(59,70): warning C4113: 'bool (__cdecl *)(Point,Point)'은(는) '_CoreCrtNonSecureSearchSortCompareFunction'과(와) 매개 변수 목록이 다릅니다.
+C:\Users\ksj\source\repos\Worskspace\Worskspace\wk_11_2_marketingStrategy.c(59,70): warning C4133: '함수': 'bool (__cdecl *)(Point,Point)'과(와) '_CoreCrtNonSecureSearchSortCompareFunction' 사이의 형식이 호환되지 않습니다.
   Worskspace.vcxproj -> C:\Users\ksj\source\repos\Worskspace\x64\Debug\Worskspace.exe

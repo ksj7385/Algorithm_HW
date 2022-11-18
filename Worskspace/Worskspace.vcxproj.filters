@@ -30,5 +30,8 @@
     <ClCompile Include="wk9_2_euclid.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="wk_11_2_marketingStrategy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
