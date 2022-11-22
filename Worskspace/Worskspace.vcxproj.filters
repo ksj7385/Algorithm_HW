@@ -24,13 +24,22 @@
     <ClCompile Include="wk11_1_cleancampus.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="nQueen.c">
+    <ClCompile Include="wk12_3_nQueens.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="wk9_2_euclid.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="wk_11_2_marketingStrategy.c">
+    <ClCompile Include="wk11_2_marketingStrategy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="wk12_1_funnyChess.java">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="wk12_2_twoColor.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

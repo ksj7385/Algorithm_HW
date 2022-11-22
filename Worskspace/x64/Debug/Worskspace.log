@@ -1,6 +1,3 @@
-﻿  wk_11_2_marketingStrategy.c
-C:\Users\ksj\source\repos\Worskspace\Worskspace\wk_11_2_marketingStrategy.c(39,74): warning C4113: 'bool (__cdecl *)(Point,Point)'은(는) '_CoreCrtNonSecureSearchSortCompareFunction'과(와) 매개 변수 목록이 다릅니다.
-C:\Users\ksj\source\repos\Worskspace\Worskspace\wk_11_2_marketingStrategy.c(39,74): warning C4133: '함수': 'bool (__cdecl *)(Point,Point)'과(와) '_CoreCrtNonSecureSearchSortCompareFunction' 사이의 형식이 호환되지 않습니다.
-C:\Users\ksj\source\repos\Worskspace\Worskspace\wk_11_2_marketingStrategy.c(59,70): warning C4113: 'bool (__cdecl *)(Point,Point)'은(는) '_CoreCrtNonSecureSearchSortCompareFunction'과(와) 매개 변수 목록이 다릅니다.
-C:\Users\ksj\source\repos\Worskspace\Worskspace\wk_11_2_marketingStrategy.c(59,70): warning C4133: '함수': 'bool (__cdecl *)(Point,Point)'과(와) '_CoreCrtNonSecureSearchSortCompareFunction' 사이의 형식이 호환되지 않습니다.
+﻿  wk12_2_twoColor.c
+C:\Users\ksj\source\repos\Worskspace\Worskspace\wk12_2_twoColor.c(6,11): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
   Worskspace.vcxproj -> C:\Users\ksj\source\repos\Worskspace\x64\Debug\Worskspace.exe
